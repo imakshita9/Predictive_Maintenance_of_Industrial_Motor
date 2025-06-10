@@ -1,5 +1,6 @@
 #  Predictive maintenance of Industrial motor
 https://github.com/imakshita9/PG_PROJECT/assets/100114587/3da317a1-2958-43a2-acbd-414111ecc1c4
+
 Like any other machines, Motor should undergo maintenance and repairs like lubricating, cleaning, and inspecting the machine for potential problems, so it's important to address any potential concerns before they cause serious issues. Instead of taking reactive measures when the damage has already happened, we can make use of condition monitoring based predictive maintenance that will help to avoid any severe issues and extend the life of a motor
 
 Predictive Maintenance is a condition based maintenance strategy uses the actual condition of the equipment to plan what maintenance needs to be performed and when it should be carried out to prevent unplanned motor failure and unnecessary downtime that can greatly affect overall production cost. Motors, whether used to drive conveyors, pumps, cooling fans, or any other machinery, are best viewed as core parts of “systems.” In this project our aim is to reduce unplanned breakdown time and prevent the occurance of motor failure which save money on reaplcements and minimize the overall production cost.
